@@ -1,0 +1,5 @@
+htmlspecialchars
+print_r
+is_numeric
+str_replace
+strstr
