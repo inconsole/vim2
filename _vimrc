@@ -346,8 +346,8 @@ map <C-Tab> :tabnext<cr>
 "代码加上头信息
 function AddTitle()
     call setline(1,"/****************************************************")
-    call append(1,"#        Author          :   @ph4nf4n")
-    call append(2,"#        Email           :   ph4nf4n@gmail.com")
+    call append(1,"#        Author          :   @1111111")
+    call append(2,"#        Email           :   22222222@gmail.com")
     call append(3,"#        Filename        :   " . expand("%"))
     call append(4,"#        Last modified   :   " . strftime("%Y-%m-%d %H:%M"))
     call append(5,"#        Description     : ")
